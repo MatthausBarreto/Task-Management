@@ -15,8 +15,8 @@
         {{form.password1}}
 
         <label>{{form.password2.label}}</label>
-        {{form.password1}}
-
+        {{form.password2}}
+        <b><p>passwords must contain at least 8 characters<p></b>
         <input style="margin-top: 10px;" class="button" type="submit" value="Register">
     </form>
     <p>Already have an account?</p><a href="{% url 'login' %}">Login</a>

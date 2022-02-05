@@ -12,7 +12,7 @@ SECRET_KEY = 'django-insecure-(t6-(z%66yvc1x+-y8pd$av&x_xy4vur&+0()px^-tdita1su-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['task-mng.heroku.com']
+ALLOWED_HOSTS = ['https://task-mng-app.herokuapp.com, http://127.0.0.1:8000']
 
 
 # Application definition
