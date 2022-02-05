@@ -2,6 +2,7 @@ import os
 import django_heroku
 from pathlib import Path
 
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
@@ -66,7 +67,7 @@ WSGI_APPLICATION = 'Task_Management.wsgi.application'
 
 DATABASES = {
         'default':{
-            'ENGINE': 'django.db.backend.postgresql_psycopg2',
+            'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'ddfulphe3da585',
             'USER': 'tulnqswrqmunkc',
             'PASSWORD': '9ad889962337c9023f52d48aec5e79401e94cf5927258da547a748a28949d4cc',
