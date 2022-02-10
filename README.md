@@ -17,9 +17,9 @@ to be more flexible with the requests management.
 you can update your tasks, delete your tasks(whether they're completed or not) and view all of your tasks
 with their status in your home page.
 
-3- When you're creating a task, you can give a title and full deatails in a text area that's gonna be available.
+3- When you're creating a task, you can give it a title and full details in a text area that's gonna be available.
 
-4- You can update the tasks name/title, details and it's completion status, tasks marked as 'completed' will have a green point to showcase that.
+4- You can update the tasks name/title, details and it's completion status, tasks marked as 'completed' will have a green point to showcase it.
 
 5- The Database can allocate multiple tasks from multiple users, but users are not allowed the see other users tasks.
 
